@@ -6,9 +6,7 @@ The system combines data preprocessing, exploratory analysis, model comparison, 
 
 🚀 Live Notebook
 
-👉 Open in Google Colab:
-[(Replace with your link)](https://colab.research.google.com/drive/1CrKVF5KU0aMFQ38agSokuNxVVx1Oph5o?usp=sharing)
-https://colab.research.google.com/github/yourusername/repo/blob/main/Heart-Risk-Predictor-using-ML
+👉 Open in Google Colab: https://colab.research.google.com/github/yourusername/repo/blob/main/Heart-Risk-Predictor-using-ML
 
 🎯 Project Objectives
 
